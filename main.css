@@ -1,0 +1,69 @@
+.container-fluid {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: #EEEEEE;
+}
+
+#img-div {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 2.5%;
+}
+
+.container {
+    max-width: 50%;
+}
+
+.timelineTitle {
+    margin-left: 0;
+    font-size: 1.5em;
+}
+
+blockquote {
+  text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    margin-bottom: 1%;
+    border-radius: 2%;
+}
+
+ul {
+    padding-left: 0;
+}
+
+
+
+@media (max-width: 1024px) {
+    .container {
+        max-width: 95%;
+    }
+}
+
+#main {
+    padding-top: 2%;
+    margin-top: 2%;
+}
+
+#title {
+    margin-bottom: 1.5%;
+}
+
+#intro {
+    margin-bottom: 1%;
+    font-family: 'Raleway', sans-serif;
+}
+
+#title {
+    font-family: 'Lora', serif;
+}
+
+a:link {
+    text-decoration: none;
+}
